@@ -11,5 +11,5 @@ s.source           = { :git => 'https://github.com/18250139010/ym_SDK.git',:tag 
 s.frameworks       = 'UIKit', 'Foundation'
 s.requires_arc     = true
 s.ios.deployment_target = '9.0'
-s.vendored_frameworks = "AAABB/YMSDK.framework"
+s.vendored_frameworks = "YMSDK.framework"
 end
