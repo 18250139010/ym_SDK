@@ -14,7 +14,12 @@ s.ios.deployment_target = '9.0'
 s.vendored_frameworks = "YMSDK.framework"
 
 
-
+s.dependency "Masonry"
+s.dependency "MJRefresh"
+s.dependency "AFNetworking"
+s.dependency "MJExtension"
+s.dependency "SDWebImage"
+s.dependency "WechatOpenSDK"
 
 
 
